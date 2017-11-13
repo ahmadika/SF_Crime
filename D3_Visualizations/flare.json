@@ -1,0 +1,68 @@
+{
+ "name": "Analysis Results",
+ "children": [
+  {
+   "name": "Violent Crimes",
+     "children": [
+    {"name":"ASSAULT", "size":76876},
+    {"name":"ROBBERY", "size":23000},
+    {"name":"SEX OFFENSES FORCIBLE", "size":4388}
+     ]
+    },
+    {
+     "name": "Non-Violent Crimes",
+     "children": [
+    {"name":"LARCENY/THEFT", "size":174900},
+    {"name":"OTHER OFFENSES", "size":126182},
+    {"name":"NON-CRIMINAL", "size":92304},
+    {"name":"ASSAULT", "size":76876},
+    {"name":"DRUG/NARCOTIC", "size":53971},
+    {"name":"VEHICLE THEFT", "size":53781},
+    {"name":"VANDALISM", "size":44725},
+    {"name":"WARRANTS", "size":42214},
+    {"name":"BURGLARY", "size":36755},
+    {"name":"SUSPICIOUS OCC", "size":31414},
+    {"name":"MISSING PERSON", "size":25989},
+    {"name":"ROBBERY", "size":23000},
+    {"name":"FRAUD", "size":16679},
+    {"name":"FORGERY/COUNTERFEITING", "size":10609},
+    {"name":"SECONDARY CODES", "size":9985},
+    {"name":"WEAPON LAWS", "size":8555},
+    {"name":"PROSTITUTION", "size":7484},
+    {"name":"TRESPASS", "size":7326},
+    {"name":"STOLEN PROPERTY", "size":4540},
+    {"name":"SEX OFFENSES FORCIBLE", "size":4388},
+    {"name":"DISORDERLY CONDUCT", "size":4320},
+    {"name":"DRUNKENNESS", "size":4280},
+    {"name":"RECOVERED VEHICLE", "size":3138},
+    {"name":"KIDNAPPING", "size":2341},
+    {"name":"DRIVING UNDER THE INFLUENCE", "size":2268},
+    {"name":"RUNAWAY", "size":1946},
+    {"name":"LIQUOR LAWS", "size":1903},
+    {"name":"ARSON", "size":1513},
+    {"name":"LOITERING", "size":1225},
+    {"name":"EMBEZZLEMENT", "size":1166},
+    {"name":"SUICIDE", "size":508},
+    {"name":"FAMILY OFFENSES", "size":491},
+    {"name":"BAD CHECKS", "size":406},
+    {"name":"BRIBERY", "size":289},
+    {"name":"EXTORTION", "size":256},
+    {"name":"SEX OFFENSES NON FORCIBLE", "size":148},
+    {"name":"GAMBLING", "size":146},
+    {"name":"PORNOGRAPHY/OBSCENE MAT", "size":22},
+    {"name":"TREA", "size":6}
+     ]
+    },
+           {
+     "name": "Theft Crimes",
+     "children": [
+    {"name":"LARCENY/THEFT", "size":174900},
+    {"name":"VEHICLE THEFT", "size":53781},
+    {"name":"BURGLARY", "size":36755},
+    {"name":"ROBBERY", "size":23000},
+    {"name":"STOLEN PROPERTY", "size":4540},
+    {"name":"KIDNAPPING", "size":2341}
+     ]
+    }
+   ]
+  }
